@@ -6,3 +6,8 @@ body {
 #summary {
 	color: purple;
 }
+p{
+	color: green;
+	margin: 700px;
+	border: 20px;
+}
