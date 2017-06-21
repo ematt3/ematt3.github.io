@@ -8,6 +8,9 @@ body {
 }
 p{
 	color: green;
-	margin: 700px;
+	margin: 7px;
 	border: 20px;
+}
+img{
+	position: fixed;
 }
