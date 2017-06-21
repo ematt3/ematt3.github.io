@@ -1,6 +1,7 @@
 body {
 	font-family:sans-serif;
 	background-color: red;
+	height: 200000px;
 }
 
 #summary {
@@ -12,5 +13,6 @@ p{
 	border: 20px;
 }
 img{
-	position: fixed;
+	position: "pic1" fixed;
+	position: "pic2" absolute;
 }
