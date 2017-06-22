@@ -1,0 +1,5 @@
+alert("Hello")
+var grade1 = prompt("First grade")
+var grade2 = prompt("second grade")
+var grade1number = Number(grade1)
+var grade2number = Number(grade2)

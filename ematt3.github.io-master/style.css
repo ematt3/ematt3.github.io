@@ -1,0 +1,18 @@
+body {
+	font-family:sans-serif;
+	background-color: red;
+	height: 200000px;
+}
+
+#summary {
+	color: purple;
+}
+p{
+	color: green;
+	margin: 7px;
+	border: 20px;
+}
+img{
+	position: "pic1" fixed;
+	position: "pic2" absolute;
+}
